@@ -1,12 +1,13 @@
 body {
     font-family: 'Raleway', sans-serif;
-    color: #fff;
+    color: #000;
     text-align: center;
     background: #000;
 }
 
 .nav {
     padding: 20px;
+    color: #fff;
 }
 
 .fixedBottom {
@@ -27,13 +28,6 @@ body {
     overflow: hidden;
     border-radius: 50%;
     margin: auto;
-}
-
-#profilePic {
-    display: inline;
-    margin: 0 auto;
-    height: 100%;
-    width: auto;
 }
 
 a {
