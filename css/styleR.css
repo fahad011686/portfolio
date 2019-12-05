@@ -3,10 +3,9 @@ body {
     color: #fff;
     background: #000;
     text-align: left;
-
 }
 
-#nav {
+.nav {
     text-align: center;
     padding: 20px;
 }
@@ -21,9 +20,6 @@ a:hover {
 
 a:link, a:visited {
     text-decoration: none;
-}
-
-#accordionResume {
 }
 
 .panel-group {
