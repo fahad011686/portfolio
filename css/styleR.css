@@ -1,0 +1,40 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    color: #fff;
+    background: #000;
+    text-align: left;
+
+}
+
+#nav {
+    text-align: center;
+    padding: 20px;
+}
+
+a {
+    color: inherit;
+}
+
+a:hover {
+    color: #3cb2e8;
+}
+
+a:link, a:visited {
+    text-decoration: none;
+}
+
+#accordionResume {
+}
+
+.panel-group {
+    padding: 20px;
+    width: 75%;
+
+}
+.panel-body {
+    padding: 30px;
+}
+
+b {
+    color: #3cb2e8;
+}
